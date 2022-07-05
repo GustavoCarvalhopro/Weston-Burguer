@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+.container{
+    background-image: url(../img/logo2.png);
+    background-repeat: no-repeat;
+    background-size: 1340px 800px;
+    background-position: center top;
+   
+    background-color: #575151;
+    width: 1340px;
+    height: 800px;
+    margin: 0;
+    display: flex;
+    padding: 2px;
+    justify-content: center;
+}
+li{
+    list-style: none;
+    padding: 5px
+   
+}
+li a{
+    color:  #f7efef;
+    text-decoration: none;
+    padding: 5px;
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
+.containermenu{
+    background-image: url(../img/cardapio.png);
+    background-repeat: no-repeat;
+    background-size:1340px;
+    background-position: center;
+    background-color: black;
+    width: 1340px;
+    height: 1850px;
+    margin: 0;
+    display: flex;
+    padding: 2px;
+    justify-content: center;
+}
